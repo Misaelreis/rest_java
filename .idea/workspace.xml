@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f2b8536-bb74-4daf-b4f9-dcf1bd697c02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barrigarest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/Constantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/suit/Suite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tests/BarrigaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tests/Movimentacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tests_refactory/AuthTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tests_refactory/ContasTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tests_refactory/MovimentacoesTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tests_refactory/SaldoTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/BarrigaUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/DataUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/main/java/rest/EnvioDadosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/main/java/rest/Html.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/main/java/rest/OlaMundo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/main/java/rest/OlaMundoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/main/java/rest/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/main/java/rest/UserJsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/main/java/rest/UserXmlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/main/java/rest/VerbsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_rest/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1c2NAcawzzKWmUYQ7DJFsyNvUP0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests_refactory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Suite">
+    <configuration name="AuthTests.naoDeveAcessarApiSemToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="barrigarest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests_refactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests_refactory" />
+      <option name="MAIN_CLASS_NAME" value="tests_refactory.AuthTests" />
+      <option name="METHOD_NAME" value="naoDeveAcessarApiSemToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovimentacoesTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="barrigarest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests_refactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests_refactory" />
+      <option name="MAIN_CLASS_NAME" value="tests_refactory.MovimentacoesTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaldoTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="barrigarest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests_refactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests_refactory" />
+      <option name="MAIN_CLASS_NAME" value="tests_refactory.SaldoTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaldoTests.deveCalcularSaldoContas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="barrigarest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests_refactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests_refactory" />
+      <option name="MAIN_CLASS_NAME" value="tests_refactory.SaldoTests" />
+      <option name="METHOD_NAME" value="deveCalcularSaldoContas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Suite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="barrigarest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="suit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="suit" />
+      <option name="MAIN_CLASS_NAME" value="suit.Suite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Suite" />
+        <item itemvalue="JUnit.AuthTests.naoDeveAcessarApiSemToken" />
+        <item itemvalue="JUnit.SaldoTests" />
+        <item itemvalue="JUnit.SaldoTests.deveCalcularSaldoContas" />
+        <item itemvalue="JUnit.MovimentacoesTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f2b8536-bb74-4daf-b4f9-dcf1bd697c02" name="Default Changelist" comment="" />
+      <created>1589722585288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589722585288</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1589728589529">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="517" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/53.27.1313.741@53.27.1313.741" timestamp="1589728589529" />
+    <state width="1267" height="175" key="GridCell.Tab.0.bottom" timestamp="1589750503078">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1267" height="175" key="GridCell.Tab.0.bottom/53.27.1313.741@53.27.1313.741" timestamp="1589750503078" />
+    <state width="1267" height="175" key="GridCell.Tab.0.center" timestamp="1589750503077">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1267" height="175" key="GridCell.Tab.0.center/53.27.1313.741@53.27.1313.741" timestamp="1589750503077" />
+    <state width="1267" height="175" key="GridCell.Tab.0.left" timestamp="1589750503076">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1267" height="175" key="GridCell.Tab.0.left/53.27.1313.741@53.27.1313.741" timestamp="1589750503076" />
+    <state width="1267" height="175" key="GridCell.Tab.0.right" timestamp="1589750503078">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1267" height="175" key="GridCell.Tab.0.right/53.27.1313.741@53.27.1313.741" timestamp="1589750503078" />
+    <state x="192" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1589724626705">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="192" y="27" width="1024" height="741" key="SettingsEditor/53.27.1313.741@53.27.1313.741" timestamp="1589724626705" />
+    <state x="323" y="78" width="762" height="637" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589745086280">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="323" y="78" width="762" height="637" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/53.27.1313.741@53.27.1313.741" timestamp="1589745086280" />
+  </component>
+</project>
